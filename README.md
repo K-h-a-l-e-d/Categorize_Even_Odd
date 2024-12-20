@@ -1,4 +1,4 @@
-# Grocery Price Calculator
+# Categorize Even Odd Numbers
 
 ## Description
 
